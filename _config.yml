@@ -1,6 +1,7 @@
 theme: jekyll-theme-tactile
 title: My Presentation Slides
 description: Bookmark this to keep an eye on my presentations!
+baseurl: /myslides
 lsi: false
 safe: true
 incremental: false

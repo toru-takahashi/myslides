@@ -1,9 +1,7 @@
-## Toru's Presentation
-
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
       <ul>
