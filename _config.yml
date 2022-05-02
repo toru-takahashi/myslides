@@ -1,4 +1,6 @@
 theme: jekyll-theme-tactile
+title: My Presentations
+description: Toru Takahashi (@nora96o)
 lsi: false
 safe: true
 incremental: false
